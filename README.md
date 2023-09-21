@@ -19,13 +19,13 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: *<Pizza-Express>*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *<Tópico 17>*
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+*<Estamos encarregados para desenvolver uma aplicação do software para identificar a localização de lojas de pizza Pizza-Express mais próxima do cliente e para criar o sistema de software necessário para operá-las.>*
 
 # Documentação
 
